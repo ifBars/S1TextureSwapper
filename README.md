@@ -16,8 +16,6 @@ A powerful texture replacement mod for *Schedule I*, allowing real-time texture 
 - **File Naming Suggestions**: Automatic suggestions for texture file naming conventions
 - **Export Functionality**: Save detailed material information to text files
 
----
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -131,7 +129,3 @@ Mods/
 ## 📄 License
 
 This mod is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Transform your game world with TextureSwapper!** 🎨
