@@ -28,7 +28,7 @@ namespace TextureSwapper.Config
 			ScanBatchSize = Category.CreateEntry("ScanBatchSize", 96, "Renderer scan batch size per frame");
 			DebugLogging = Category.CreateEntry("DebugLogging", false, "Enable verbose debug logging for troubleshooting");
 			OnlyScanActive = Category.CreateEntry("OnlyScanActive", true, "Scan only active renderers (exclude inactive)");
-			OnlyScanVisible = Category.CreateEntry("OnlyScanVisible", true, "Scan only renderers currently visible to a camera");
+			OnlyScanVisible = Category.CreateEntry("OnlyScanVisible", false, "Scan only renderers currently visible to a camera");
 			MaxScanDistance = Category.CreateEntry("MaxScanDistance", 500f, "Max distance from camera for scanning (0 = unlimited)");
 			RescanIntervalSeconds = Category.CreateEntry("RescanIntervalSeconds", 0f, "Periodic rescan interval in seconds (0 = scan only on scene changes and file updates)");
 		}
