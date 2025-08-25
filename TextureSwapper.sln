@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureSwapper", "TextureSwapper.csproj", "{E9FF76E3-10D6-45AC-A729-878BB901C6C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Il2cpp|Any CPU = Il2cpp|Any CPU
+		Mono|Any CPU = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FF76E3-10D6-45AC-A729-878BB901C6C7}.Il2cpp|Any CPU.ActiveCfg = Il2cpp|Any CPU
+		{E9FF76E3-10D6-45AC-A729-878BB901C6C7}.Il2cpp|Any CPU.Build.0 = Il2cpp|Any CPU
+		{E9FF76E3-10D6-45AC-A729-878BB901C6C7}.Mono|Any CPU.ActiveCfg = Mono|Any CPU
+		{E9FF76E3-10D6-45AC-A729-878BB901C6C7}.Mono|Any CPU.Build.0 = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45654E48-8405-4B35-BFE9-C41779BF69A0}
+	EndGlobalSection
+EndGlobal
